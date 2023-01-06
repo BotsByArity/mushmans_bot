@@ -1,4 +1,6 @@
 {
   "clientId": "1059663534167965807",
-  "guildId": "1035151542027812884"
+  "guildId": "1035151542027812884",
+  "token": "<discord-token-goes-here>",
+  "e621Token": "<e621-token-goes-here>"
 }
